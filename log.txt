@@ -1,0 +1,65 @@
+GPU Mode.
+Split train-test sets / Load tf-idf model finished.
+Load data finished.
+Model init finished.
+[1/600] rumor mean_loss: 0.5134 stance mean_loss: 1.0849
+Accuracy: 91.3183%
+Non-rumor precision: 87.0213% recall: 95.3380% f1: 0.9099
+Rumor precision: 95.6803% recall: 87.8968% f1: 0.9162
+[2/600] rumor mean_loss: 0.3776 stance mean_loss: 1.0688
+Accuracy: 93.0332%
+Non-rumor precision: 92.1277% recall: 93.9262% f1: 0.9302
+Rumor precision: 93.9525% recall: 92.1610% f1: 0.9305
+[3/600] rumor mean_loss: 0.3547 stance mean_loss: 1.0616
+Accuracy: 92.8189%
+Non-rumor precision: 91.7021% recall: 93.8998% f1: 0.9279
+Rumor precision: 93.9525% recall: 91.7722% f1: 0.9285
+[4/600] rumor mean_loss: 0.3415 stance mean_loss: 1.0572
+Accuracy: 92.7117%
+Non-rumor precision: 94.2553% recall: 91.5289% f1: 0.9287
+Rumor precision: 91.1447% recall: 93.9866% f1: 0.9254
+[5/600] rumor mean_loss: 0.3339 stance mean_loss: 1.0538
+Accuracy: 92.9260%
+Non-rumor precision: 94.0426% recall: 92.0833% f1: 0.9305
+Rumor precision: 91.7927% recall: 93.8190% f1: 0.9279
+[6/600] rumor mean_loss: 0.3297 stance mean_loss: 1.0508
+Accuracy: 92.7117%
+Non-rumor precision: 92.3404% recall: 93.1330% f1: 0.9274
+Rumor precision: 93.0886% recall: 92.2912% f1: 0.9269
+[7/600] rumor mean_loss: 0.3275 stance mean_loss: 1.0477
+Accuracy: 93.1404%
+Non-rumor precision: 93.6170% recall: 92.8270% f1: 0.9322
+Rumor precision: 92.6566% recall: 93.4641% f1: 0.9306
+[8/600] rumor mean_loss: 0.3265 stance mean_loss: 1.0442
+Accuracy: 92.9260%
+Non-rumor precision: 94.0426% recall: 92.0833% f1: 0.9305
+Rumor precision: 91.7927% recall: 93.8190% f1: 0.9279
+[9/600] rumor mean_loss: 0.3255 stance mean_loss: 1.0400
+Accuracy: 93.1404%
+Non-rumor precision: 94.6809% recall: 91.9421% f1: 0.9329
+Rumor precision: 91.5767% recall: 94.4321% f1: 0.9298
+[10/600] rumor mean_loss: 0.3250 stance mean_loss: 1.0343
+Accuracy: 93.0332%
+Non-rumor precision: 94.2553% recall: 92.0998% f1: 0.9317
+Rumor precision: 91.7927% recall: 94.0265% f1: 0.9290
+[11/600] rumor mean_loss: 0.3243 stance mean_loss: 1.0266
+Accuracy: 92.9260%
+Non-rumor precision: 93.8298% recall: 92.2594% f1: 0.9304
+Rumor precision: 92.0086% recall: 93.6264% f1: 0.9281
+[12/600] rumor mean_loss: 0.3240 stance mean_loss: 1.0164
+Accuracy: 92.3901%
+Non-rumor precision: 94.2553% recall: 90.9651% f1: 0.9258
+Rumor precision: 90.4968% recall: 93.9462% f1: 0.9219
+[13/600] rumor mean_loss: 0.3236 stance mean_loss: 1.0031
+Accuracy: 92.6045%
+Non-rumor precision: 93.8298% recall: 91.6840% f1: 0.9274
+Rumor precision: 91.3607% recall: 93.5841% f1: 0.9246
+[14/600] rumor mean_loss: 0.3233 stance mean_loss: 0.9872
+Accuracy: 92.0686%
+Non-rumor precision: 93.8298% recall: 90.7407% f1: 0.9226
+Rumor precision: 90.2808% recall: 93.5123% f1: 0.9187
+[15/600] rumor mean_loss: 0.3229 stance mean_loss: 0.9704
+Accuracy: 92.3901%
+Non-rumor precision: 91.7021% recall: 93.0886% f1: 0.9239
+Rumor precision: 93.0886% recall: 91.7021% f1: 0.9239
+[16/600] rumor mean_loss: 0.3230 stance mean_loss: 0.9535
